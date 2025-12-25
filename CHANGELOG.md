@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`b256d64`](https://github.com/stdlib-js/stdlib/commit/b256d64a727ea0a266e8fae6ffacd519b55abdb0) - **test:** add test for negative zero _(by Philipp Burckhardt)_
+-   [`54b804b`](https://github.com/stdlib-js/stdlib/commit/54b804bba55d0045117f48b267cae91de0d9da8d) - **chore:** fix spacing _(by Philipp Burckhardt)_
+-   [`683e342`](https://github.com/stdlib-js/stdlib/commit/683e34223d282c9021303d0a57c07cffdc431397) - **bench:** add missing :ndarray _(by Philipp Burckhardt)_
 -   [`65784f7`](https://github.com/stdlib-js/stdlib/commit/65784f785748107e1fc5d84ad75c9778422e8442) - **feat:** add `stats/strided/midrange-by` [(#9328)](https://github.com/stdlib-js/stdlib/pull/9328) _(by Sachin Pangal, Athan Reines)_
 
 </details>
@@ -34,9 +37,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Sachin Pangal
 
 </section>
