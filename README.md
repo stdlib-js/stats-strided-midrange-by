@@ -50,13 +50,13 @@ The [**mid-range**][mid-range], or **mid-extreme**, is the arithmetic mean of th
 ## Usage
 
 ```javascript
-import midrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@deno/mod.js';
+import midrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@deno/mod.js';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@v0.1.0-deno/mod.js';
 ```
 
 #### midrangeBy( N, x, strideX, clbk\[, thisArg] )
@@ -201,7 +201,7 @@ var v = midrangeBy.ndarray( 3, x, 1, x.length-3, accessor );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import midrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@deno/mod.js';
+import midrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-midrange-by@v0.1.0-deno/mod.js';
 
 function accessor( v ) {
     return v * 2.0;
