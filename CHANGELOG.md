@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-12-25)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`b256d64`](https://github.com/stdlib-js/stdlib/commit/b256d64a727ea0a266e8fae6ffacd519b55abdb0) - **test:** add test for negative zero _(by Philipp Burckhardt)_
 -   [`54b804b`](https://github.com/stdlib-js/stdlib/commit/54b804bba55d0045117f48b267cae91de0d9da8d) - **chore:** fix spacing _(by Philipp Burckhardt)_
 -   [`683e342`](https://github.com/stdlib-js/stdlib/commit/683e34223d282c9021303d0a57c07cffdc431397) - **bench:** add missing :ndarray _(by Philipp Burckhardt)_
